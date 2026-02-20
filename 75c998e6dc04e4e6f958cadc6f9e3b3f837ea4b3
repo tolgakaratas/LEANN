@@ -1,0 +1,25 @@
+docs/user-scripts.md
+  890ac688687192a5 1-224
+packages/leann-core/src/leann/cli.py
+  890ac688687192a5 182-215,359-484,1788-2124,2656-2679
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.4",
+  "base_commit_sha": "75c998e6dc04e4e6f958cadc6f9e3b3f837ea4b3",
+  "prompts": {
+    "890ac688687192a5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_38330003affedfc3LYlufzWtm5",
+        "model": "opencode/big-pickle"
+      },
+      "human_author": "Tolga Karatas <tolgakaratas@gmail.com>",
+      "messages": [],
+      "total_additions": 746,
+      "total_deletions": 1,
+      "accepted_lines": 745,
+      "overriden_lines": 0
+    }
+  }
+}
